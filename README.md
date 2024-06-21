@@ -185,9 +185,78 @@
 
 ![userView](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/8c711ab8-9ecb-434c-bf3b-78b1d3055ba5)
 
+# *Troisième Partie*
+
+<h2>Back-end </h2>
+
+**cree un projet avec la structure suivante :**
+
+![image](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/0c1d03c7-7817-4191-92dc-028a110f9465)
+
+**Students :**
+
+![studentsList](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/2a982580-a3ef-4d45-8d9b-66d5db10bec3)
+
+**Payements :**
+
+![payments](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/ea5de7b0-fabe-4f5c-a902-8806766751a8)
 
 
+**Ajout du dependance openapi de spring :**
+
+![swagger](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/e7273be9-ca0f-4156-8ed4-94a62aa4e2bd)
+
+**H2-Console :**
+
+![h2-console](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/91da37a7-ab8e-4e3c-9c11-c0008ba6755a)
 
 
+<h2>Front-end </h2>
+
+**Ajout du projet angular dans notre projet et l'ajout d'angular material(frontend-repository) :**
+
+![frontend-repository](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/bf2a19f0-deb4-4907-ae1f-7df8ebbd832a)
+
+**Interface d'authentification :**
+
+![Login intr](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/197aac54-88f8-4ab9-90e1-65acde4cccbc)
+
+**User View ;**
+
+![user view](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/a8664f2f-6a12-4711-918c-ae22d9ddc69b)
 
 
+**Admin View :**
+
+![admin view](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/3adb0999-98f3-4540-90ca-14741ef52604)
+
+**L a recuperation des Payments :**
+
+![recup des payments](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/15567bf1-ebcf-45d1-8140-0981764d4e48)
+
+**l'affichage des payments :**
+
+![affichage des pyments](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/cf50a5ad-7a29-4f44-825d-847b885a3562)
+
+**Resultat :**
+![les pyments avec pagenation et listes](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/d0f47fe9-8285-4559-aa88-28cbbf5120ba)
+
+
+<h2>Ressources :</h2>
+Part 1 :  https://www.youtube.com/watch?v=ZdcqRYllLgE
+
+Part 2 :
+
+Part 2-1  https://www.youtube.com/watch?v=Bq-vewCZk-o
+
+Part 2-2  https://www.youtube.com/watch?v=h0zPn2d4fGI&authuser=0
+
+Part 2-3  https://www.youtube.com/watch?v=ejQg0Ugm9s8
+
+Part 2-4  https://www.youtube.com/watch?v=ZWQtLaRM49o&authuser=0
+
+part3 : 
+Back-end : 
+  https://www.youtube.com/watch?v=oTuAXfD2M1g
+Front-end :
+  https://www.youtube.com/watch?v=QqmoMDGr3Ww
