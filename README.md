@@ -114,3 +114,80 @@
 
 
 <h2>Part 2</h2>
+**le x-total-count :**
+![x_total_count_pour la pagenatio](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/9cf9848f-7a9a-4549-b22f-80b51e56945c)
+
+**Pagenation avec le x-total-count :**
+
+![pagenation et clck page](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/ccc16dbd-024e-4c7b-81e9-b48f29f5d5e4)
+
+**Color curent-page :**
+
+![Pagenation-color-current page](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/9afb152e-4dc8-477f-a97a-034a1f7fef2d)
+
+**la recherche avec la methode GetProducts() :**
+
+![SEARCH AVEC GETpRODUCTS](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/6de50392-e0f4-456b-adf5-61ea241f890b)
+
+
+**Ajout d'un nouvelle component editProduct et function update pour pouvoir modifier un produit :
+
+![edit avec compent ](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/8b8d54df-c942-43aa-907a-66d6f4ece414)
+
+
+**lorsqu'on click sur l'edit d'un produit :** 
+
+![EDIT](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/5d7d2ae8-8345-4fc1-8add-9765c43a10e5)
+
+
+<h2>Part 3</h2>
+
+**Ajout du component dashboard :**
+
+![dashbord](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/fac94c64-7c65-4c62-8a88-f393b0276b2b)
+
+**L'ajout de app-errors pour gérer les erreurs :**
+
+![ERRORs](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/a87ce13b-2edf-407f-a109-a4a980068d49)
+
+
+**l'ajout de snipper pour chaque action :**
+
+![spinner pour chaque action](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/3aa7e996-35e1-4e61-b4d5-4ac06eb67b51)
+
+
+**changer le vitesse du reseau :**
+
+![VITESSE D RESEAU](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/866d1365-09a7-487d-823a-0457ec3b396a)
+
+
+<h2>Part 4</h2>
+
+**l'ajout de login component et  auth service pour gérer le login :**
+
+![Login prblm](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/d25a09a8-2517-4ef7-80c7-c74b34baa936)
+
+
+**quand un user essaie de ajouter un nouveau produit: :**
+
+![user levup to admin pour ajooter des prd](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/dc613b2b-3a0c-4146-867d-83da52972ac1)
+
+**l'ajout des produits par l'admin :**
+
+![ADMIN AJOUTER PRD](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/773d9103-7335-417f-a3ef-1fe119994593)
+
+
+**Admin view :**
+
+![admin view](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/01a5f524-b682-488d-9084-b1985e2e2e79)
+
+**User View :**
+
+![userView](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/8c711ab8-9ecb-434c-bf3b-78b1d3055ba5)
+
+
+
+
+
+
+
