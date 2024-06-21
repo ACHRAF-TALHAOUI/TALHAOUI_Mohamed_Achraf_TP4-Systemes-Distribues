@@ -111,3 +111,6 @@
 **La recherche ds produits :**
 
 ![Search Product](https://github.com/ACHRAF-TALHAOUI/TP4-Systemes-Distribues/assets/137435554/136bafdd-4733-4ca8-8223-781fa765d727)
+
+
+<h2>Part 2</h2>
