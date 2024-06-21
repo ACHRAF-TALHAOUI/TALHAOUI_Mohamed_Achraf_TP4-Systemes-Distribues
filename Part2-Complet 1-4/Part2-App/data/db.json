@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user1",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMSIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4MDgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTW9oYW1tZWQiLCJsYXN0TmFtZSI6IllPVVNTRkkiLCJlbWFpbCI6Im1lZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.kATxOoGzNi6NOralr_2k2i-ekK2gI0w7G7tY0t031n8"
+    },
+    {
+      "id": "user2",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyMiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4MDgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTW9oYW1tZWQiLCJsYXN0TmFtZSI6IllPVVNTRkkiLCJlbWFpbCI6Im1lZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIl19.RhY-9z5rywbJHOqwGO5PPxQafUxlZSCnMXJ2y8qyi7w"
+    },
+    {
+      "id": "admin",
+      "password": "MTIzNA==",
+      "roles": [
+        "USER",
+        "ADMIN"
+      ],
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoxNTE2MjM5MDIyLCJpc3MiOiJodHRwOi8vbG9jYWxob3N0Ojg4MDgvYXV0aCIsIm5iZiI6MTUxNjIzOTAyMiwiZmlyc3ROYW1lIjoiTW9oYW1tZWQiLCJsYXN0TmFtZSI6IllPVVNTRkkiLCJlbWFpbCI6Im1lZEBnbWFpbC5jb20iLCJyb2xlcyI6WyJVU0VSIiwiQURNSU4iXX0.g6LoXcTSM3y6ZxaRBCDJplvJ-KSrjtCNf93JC7SoKrA"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Computer",
+      "price": "22022",
+      "checked": true
+    },
+    {
+      "id": "2",
+      "name": "Phone",
+      "price": 8000,
+      "checked": true
+    },
+    {
+      "id": "3",
+      "name": "Tab",
+      "price": 5600,
+      "checked": true
+    },
+    {
+      "id": "4",
+      "name": "printer",
+      "price": 3000,
+      "checked": true
+    },
+    {
+      "id": "5",
+      "name": "Iphone",
+      "price": 18000,
+      "checked": true
+    },
+    {
+      "id": "6",
+      "name": "Legion",
+      "price": 22000,
+      "checked": true
+    },
+    {
+      "id": "27ff",
+      "name": "t",
+      "price": "0",
+      "checked": true
+    }
+  ]
+}

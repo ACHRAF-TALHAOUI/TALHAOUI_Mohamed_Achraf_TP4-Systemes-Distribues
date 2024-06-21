@@ -1,0 +1,57 @@
+<div class="p-3">
+  <div class="card">
+    <div class="card-body">
+      <div class="card-body">
+        <!--{{keyword}}-->
+        <input class="p-1" type="text" [(ngModel)]="appState.productState.keyword">
+        <button (click)="searchProducts()" class="btn btn-outline-success ms-1">
+          Search
+          <i class="bi bi-search"></i>
+        </button>
+      </div>
+      <table class="table">
+        <thead>
+        <tr>
+          <th>Name</th><th>Prix</th><th>Checked</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr *ngFor="let product of appState.productState.products">
+          <td>{{product.name}}</td>
+          <td>{{product.price}}</td>
+          <td *ngIf="appState.authState.roles.includes('ADMIN')">
+            <button (click)="handleCheckProduct(product)"
+                    class="btn btn-outline-success">
+              <i [class]="product.checked?'bi bi-check':'bi bi-circle'"></i>
+            </button>
+          </td>
+          <td *ngIf="appState.authState.roles.includes('ADMIN')">
+            <button (click)="handleDelete(product)" class="btn btn-outline-danger">
+              <i class="bi bi-trash"></i>
+            </button>
+          </td>
+          <td *ngIf="appState.authState.roles.includes('ADMIN')">
+            <button (click)="handleEdit(product)" class="btn btn-outline-info">
+              <i class="bi bi-pencil"></i>
+            </button>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+      <ul class="nav nav-pills">
+        <li *ngFor="let page of [].constructor(this.appState.productState.totalPages); let i=index">
+          <!--<button (click)="handleGotoPage(i+1)"
+                  [ngClass]="currentPage==(i+1)?'btn btn-success ms-2':'btn btn-outline-success ms-2'"
+                  >
+            {{i+1}}
+          </button>-->
+          <button (click)="handleGotoPage(i+1)"
+                  [ngClass]="this.appState.productState.currentPage==(i+1)?'btn-success':'btn-outline-success'" class="btn ms-2"
+          >
+            {{i+1}}
+          </button>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

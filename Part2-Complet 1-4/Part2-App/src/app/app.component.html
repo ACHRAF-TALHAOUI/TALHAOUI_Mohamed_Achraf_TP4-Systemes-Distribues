@@ -1,0 +1,52 @@
+<!--
+<h1>Hello!  App-Part2</h1>
+<h1>Hello!  {{title}}</h1> &lt;!&ndash; title declare sur le app.component.ts   &ndash;&gt;
+
+-->
+<!--
+<nav>
+  <ul class="nav nav-pills">
+&lt;!&ndash;    <li>
+      <button routerLink="/home" class="btn btn-outline-success ms-1">Home
+      <i class="bi  bi-house text-success"></i></button>
+    </li>
+    <li>
+      <button routerLink="/products" class="btn btn-outline-success ms-1">Products
+        <i class="bi  bi-archive-fill text-success"></i>
+      </button>
+    </li>
+    <li>
+      <button routerLink="/newProduct" class="btn btn-outline-success ms-1">New Product
+        <i class="bi  bi-newspaper text-success"></i>
+      </button>
+    </li>&ndash;&gt;
+
+&lt;!&ndash; Autre facon pour cretion de nav et de navigation ,    &ndash;&gt;
+
+    <li *ngFor="let action of actions">
+      <button
+        (click)="setCurrentAction(action)"
+        routerLink="{{action.route}}"
+        [class]="action==currentAction?'btn btn-success ms-1':'btn btn-outline-success ms-1'"
+      >
+        {{action.title}}
+        <i class="bi bi-{{action.icon}}"></i>
+      </button>
+    </li>
+
+
+  </ul>
+</nav>-->
+
+
+
+<!--<app-navbar></app-navbar>
+<app-dashboard></app-dashboard>
+<app-app-errors></app-app-errors>-->
+<!--
+pour le routage
+-->
+
+<router-outlet>
+</router-outlet>
+
